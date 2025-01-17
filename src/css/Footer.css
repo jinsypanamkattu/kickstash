@@ -1,0 +1,30 @@
+/* Footer Container */
+.footer {
+  background-color: #40e0d0; /* Turquoise blue */
+  color: #ffffff; /* White text */
+  text-align: center; /* Center the text */
+  padding: 20px 10px; /* Add vertical and horizontal padding */
+  font-size: 14px; /* Slightly smaller font size */
+  font-weight: bold; /* Bold text */
+  border-top: 2px solid #33d0c6; /* Add a top border with a slightly darker shade */
+  box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for separation */
+}
+
+/* Footer Links (if needed) */
+.footer a {
+  color: #ffffff; /* Keep links white */
+  text-decoration: underline; /* Underline links */
+  transition: color 0.3s ease; /* Smooth color change on hover */
+}
+
+.footer a:hover {
+  color: #e6f9f8; /* Lightened turquoise on hover */
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .footer {
+    font-size: 12px; /* Smaller font for smaller screens */
+    padding: 15px 5px; /* Adjust padding for mobile */
+  }
+}

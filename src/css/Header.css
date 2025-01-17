@@ -1,0 +1,98 @@
+/* General Navbar Styling */
+.navbar {
+  background-color: #9eeaf9; /* Turquoise Blue */
+  padding: 10px 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.navbar-brand:hover {
+  color: #e6f9f8;
+  text-decoration: none;
+}
+
+/* Nav Links */
+.navbar .nav-link {
+  color: #ffffff;
+  font-size: 1rem;
+  font-weight: bold;
+  margin-left: 15px;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.navbar .nav-link:hover {
+  color: #e6f9f8;
+}
+.title-user {
+  background-color: #1b626d;
+  border-radius: 4px;;
+  
+  
+}
+
+/* Active State */
+.navbar .nav-link.active {
+  color: #ffffff;
+  background-color: #33d0c6; /* Slightly darker turquoise */
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+/* Greeting Text */
+.navbar .nav-link span {
+  color: #ffffff;
+  font-size: 1rem;
+  font-weight: bold;
+  margin-right: 15px;
+}
+
+/* Buttons */
+.navbar button {
+  background-color: #ffffff;
+  color: #40e0d0;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.navbar button:hover {
+  background-color: #e6f9f8;
+  color: #33d0c6;
+}
+
+.kickstash {
+  font-family: Arial, sans-serif;
+  font-size: 16px; /* Base font size */
+  color: #1b626d;
+}
+
+.kickstash .highlight {
+  
+  color: #309fbb; /* Highlight color */
+  font-weight: bold;
+  font-size: 24px; /* Larger font size for K and S */
+  position: relative;
+  top: -3px; /* Adjust to make it stand out (can be positive or negative) */
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .navbar .nav-link {
+    margin-left: 0;
+    margin-top: 10px;
+  }
+
+  .navbar button {
+    margin-top: 10px;
+  }
+}

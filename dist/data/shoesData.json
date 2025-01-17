@@ -1,0 +1,204 @@
+[
+    {
+      "id": 1,
+      "name": "Summer Sneakers",
+      "price": 50,
+      "section": "summer",
+      "category": "Men",
+      "image": "../assets/images/shoe1.jpg",
+      "description":"Get you a shoe that can do both. These shoes are made with memory foam and real leather. I love the look of these platform wedges so much and will definitely be wearing them to teach in once school starts again!",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "Winter Boots",
+      "price": 100,
+      "section": "winter",
+      "category": "Women",
+      "image": "../assets/images/shoe2.jpg",
+      "description":"Get you a shoe that can do both. These shoes are made with memory foam and real leather. I love the look of these platform wedges so much and will definitely be wearing them to teach in once school starts again!",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "name": "Casual Loafers",
+      "price": 75,
+      "section": "casual",
+      "category": "Kids",
+      "image": "../assets/images/shoe3.jpg",
+      "description":"Get you a shoe that can do both. These shoes are made with memory foam and real leather. I love the look of these platform wedges so much and will definitely be wearing them to teach in once school starts again!",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "name": "Running Shoes",
+      "price": 120,
+      "section": "summer",
+      "category": "Men",
+      "image": "../assets/images/shoe4.jpg",
+      "description":"Get you a shoe that can do both. These shoes are made with memory foam and real leather. I love the look of these platform wedges so much and will definitely be wearing them to teach in once school starts again!",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "name": "Stylish Sneakers",
+      "price": 65,
+      "section": "casual",
+      "category": "Women",
+      "image": "../assets/images/shoe5.jpg",
+      "description":"Get you a shoe that can do both. These shoes are made with memory foam and real leather. I love the look of these platform wedges so much and will definitely be wearing them to teach in once school starts again!",
+      "featured": true
+    },
+    {
+      "id": 6,
+      "name": "High Heels",
+      "price": 80,
+      "section": "winter",
+      "category": "Women",
+      "image": "../assets/images/shoe6.jpg",
+      "description":"Get you a shoe that can do both. These shoes are made with memory foam and real leather. I love the look of these platform wedges so much and will definitely be wearing them to teach in once school starts again!",
+      "featured": false
+    },
+    {
+      "id": 7,
+      "name": "Sports Trainers",
+      "price": 90,
+      "section": "summer",
+      "category": "Men",
+      "image": "../assets/images/shoe7.jpg",
+      "description":"Get you a shoe that can do both. These shoes are made with memory foam and real leather. I love the look of these platform wedges so much and will definitely be wearing them to teach in once school starts again!",
+      "featured": true
+    },
+    {
+      "id": 8,
+      "name": "Snow Boots",
+      "price": 110,
+      "section": "winter",
+      "category": "Women",
+      "image": "../assets/images/shoe8.jpg",
+    "description":"Get you a shoe that can do both. These shoes are made with memory foam and real leather. I love the look of these platform wedges so much and will definitely be wearing them to teach in once school starts again!",
+      "featured": false
+    },
+    {
+      "id": 9,
+      "name": "Beach Flip-Flops",
+      "price": 25,
+      "section": "summer",
+      "category": "Men",
+      "image": "../assets/images/shoe9.jpg",
+      "description":"Get you a shoe that can do both. These shoes are made with memory foam and real leather. I love the look of these platform wedges so much and will definitely be wearing them to teach in once school starts again!",
+      "featured": true
+    },
+    {
+      "id": 10,
+      "name": "Pumps",
+      "price": 60,
+      "section": "casual",
+      "category": "Women",
+     "image": "../assets/images/shoe10.jpg",
+      "description":"Get you a shoe that can do both. These shoes are made with memory foam and real leather. I love the look of these platform wedges so much and will definitely be wearing them to teach in once school starts again!",
+      "featured": false
+    },
+    {
+      "id": 11,
+      "name": "Winter Sneakers",
+      "price": 85,
+      "section": "winter",
+      "category": "Men",
+      "image": "../assets/images/shoe11.jpg",
+      "description":"Get you a shoe that can do both. These shoes are made with memory foam and real leather. I love the look of these platform wedges so much and will definitely be wearing them to teach in once school starts again!",
+      "featured": true
+    },
+    {
+      "id": 12,
+      "name": "Casual Sandals",
+      
+      "price": 40,
+      "section": "casual",
+      "category": "Kids",
+      "image": "../assets/images/shoe12.jpg",
+     "description":"Get you a shoe that can do both. These shoes are made with memory foam and real leather. I love the look of these platform wedges so much and will definitely be wearing them to teach in once school starts again!",
+      "featured": false
+    },
+    {
+      "id": 13,
+      "name": "Formal Shoes",
+      "price": 100,
+      "section": "winter",
+      "category": "Men",
+      "image": "../assets/images/shoe13.jpg",
+      "description":"Get you a shoe that can do both. These shoes are made with memory foam and real leather. I love the look of these platform wedges so much and will definitely be wearing them to teach in once school starts again!",  
+      "featured": true
+    },
+    {
+      "id": 14,
+      "name": "Classic Boots",
+      "price": 95,
+      "section": "winter",
+      "category": "Women",
+      "image": "../assets/images/shoe14.jpg",
+      "description":"Get you a shoe that can do both. These shoes are made with memory foam and real leather. I love the look of these platform wedges so much and will definitely be wearing them to teach in once school starts again!",
+      "featured": false
+    },
+    {
+      "id": 15,
+      "name": "Jogging Shoes",
+      "price": 70,
+      "section": "summer",
+      "category": "Men",
+      "image": "../assets/images/shoe15.jpg",
+      "description":"Get you a shoe that can do both. These shoes are made with memory foam and real leather. I love the look of these platform wedges so much and will definitely be wearing them to teach in once school starts again!",   
+      "featured": true
+    },
+    {
+      "id": 16,
+      "name": "Ballet Flats",
+      "price": 55,
+      "section": "casual",
+      "category": "Women",
+      "image": "../assets/images/shoe16.jpg",
+      "description":"Get you a shoe that can do both. These shoes are made with memory foam and real leather. I love the look of these platform wedges so much and will definitely be wearing them to teach in once school starts again!",
+      "featured": false
+    },
+    {
+      "id": 17,
+      "name": "Trekking Shoes",
+      "price": 130,
+      "section": "winter",
+      "category": "Men",
+      "image": "../assets/images/shoe17.jpg",
+      "description":"Get you a shoe that can do both. These shoes are made with memory foam and real leather. I love the look of these platform wedges so much and will definitely be wearing them to teach in once school starts again!",
+      "featured": true
+    },
+    {
+      "id": 18,
+      "name": "Beach Sandals",
+      "price": 30,
+      "section": "summer",
+      "category": "Kids",
+      "image": "../assets/images/shoe18.jpg",
+      "description": "Get you a shoe that can do both. These shoes are made with memory foam and real leather. I love the look of these platform wedges so much and will definitely be wearing them to teach in once school starts again!",
+      "featured": false
+    },
+    {
+      "id": 19,
+      "name": "Comfort Slippers",
+      "price": 50,
+      "section": "casual",
+      "category": "Women",
+      "image": "../assets/images/shoe19.jpg",
+      "description": "Get you a shoe that can do both. These shoes are made with memory foam and real leather. I love the look of these platform wedges so much and will definitely be wearing them to teach in once school starts again!",
+      "featured": true
+    },
+    {
+      "id": 20,
+      "name": "Sporty Boots",
+      "price": 120,
+      "section": "winter",
+      "category": "Men",
+      "image": "../assets/images/shoe20.jpg",
+     "description": "Get you a shoe that can do both. These shoes are made with memory foam and real leather. I love the look of these platform wedges so much and will definitely be wearing them to teach in once school starts again!",
+      "featured": false
+    }
+  ]
+  
