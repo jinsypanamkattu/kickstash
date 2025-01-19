@@ -1,13 +1,13 @@
 /* Footer Container */
 .footer {
-  background-color: #40e0d0; /* Turquoise blue */
+  background-color: #9eeaf9; /* Turquoise Blue */  
   color: #ffffff; /* White text */
   text-align: center; /* Center the text */
   padding: 20px 10px; /* Add vertical and horizontal padding */
   font-size: 14px; /* Slightly smaller font size */
   font-weight: bold; /* Bold text */
   border-top: 2px solid #33d0c6; /* Add a top border with a slightly darker shade */
-  box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for separation */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);/* Subtle shadow for separation */
 }
 
 /* Footer Links (if needed) */
